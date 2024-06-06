@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684815401544",
+    "project_id": "magicnote-b0889",
+    "storage_bucket": "magicnote-b0889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684815401544:android:0eaa1010d37b3f2d13ce7d",
+        "android_client_info": {
+          "package_name": "com.wondapro.magic_note_2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfqDPDIdA459yIIXzPDBFGOreDH9S7iGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
